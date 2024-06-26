@@ -1,6 +1,6 @@
 {
   "wsLink": "wss://gateway.discord.gg",
-  "token": "MTAzMDg4NTYyNDY0MDcwNDUyMg.G92DH-.mDmmtCozseYB8MZ5XQf5SsLH-BJJPRDld7AmYk",
-  "channel": "1254400421263314957",
-  "serverId": "1198892599377932410"
+  "token": "discord_self_account_token",
+  "channel": "",
+  "serverId": ""
 }

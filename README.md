@@ -1,6 +1,7 @@
 # Discord Vanity Sniper Bot
 
 Bu bot, Discord sunucunuzdaki vanity URL'leri izleyerek belirli bir URL açıldığında otomatik olarak güncellemeler yapar.
+- 15 Yıldızda Daha İyisi Paylaşılır -
 
 ## Nasıl Çalışır?
 

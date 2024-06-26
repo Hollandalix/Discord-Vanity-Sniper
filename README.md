@@ -34,7 +34,7 @@ Bu bot, Discord'un WebSocket API'si ve TLS bağlantıları üzerinden çalışı
 
 3. **Botu Çalıştırma**:
    ```bash
-   node app.js
+   node index.js
 
 4. **Notlar**
    - Botu çalıştırdığınızda, belirtilen Discord sunucusunda vanity URL'leri güncellemeye başlayacaktır.

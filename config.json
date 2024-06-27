@@ -1,0 +1,6 @@
+{
+  "wsLink": "wss://gateway.discord.gg",
+  "token": "discord_self_account_token",
+  "channel": "",
+  "serverId": ""
+}
